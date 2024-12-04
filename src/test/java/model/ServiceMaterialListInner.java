@@ -1,7 +1,5 @@
 package model;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
 public class ServiceMaterialListInner {
 
     private Integer id;
