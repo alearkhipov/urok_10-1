@@ -1,0 +1,10 @@
+{
+  "materialNumber": "30020955",
+  "materialName": "Цифровой помощник",
+  "serviceMaterialList": {
+      "id": 1,
+      "materialServiceNumber": "6016503",
+      "materialServiceName": "Услуга по наклейке плёнки",
+      "price": 899
+    }
+}
